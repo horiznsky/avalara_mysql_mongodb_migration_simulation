@@ -1,0 +1,31 @@
+tax_code_id,tax_code,description,category
+1,TX-001,Synthetic general goods tax classification 001,General Goods
+2,TX-002,Synthetic digital goods tax classification 002,Digital Goods
+3,TX-003,Synthetic apparel tax classification 003,Apparel
+4,TX-004,Synthetic food tax classification 004,Food
+5,TX-005,Synthetic books tax classification 005,Books
+6,TX-006,Synthetic electronics tax classification 006,Electronics
+7,TX-007,Synthetic office supplies tax classification 007,Office Supplies
+8,TX-008,Synthetic home goods tax classification 008,Home Goods
+9,TX-009,Synthetic services tax classification 009,Services
+10,TX-010,Synthetic medical supplies tax classification 010,Medical Supplies
+11,TX-011,Synthetic general goods tax classification 011,General Goods
+12,TX-012,Synthetic digital goods tax classification 012,Digital Goods
+13,TX-013,Synthetic apparel tax classification 013,Apparel
+14,TX-014,Synthetic food tax classification 014,Food
+15,TX-015,Synthetic books tax classification 015,Books
+16,TX-016,Synthetic electronics tax classification 016,Electronics
+17,TX-017,Synthetic office supplies tax classification 017,Office Supplies
+18,TX-018,Synthetic home goods tax classification 018,Home Goods
+19,TX-019,Synthetic services tax classification 019,Services
+20,TX-020,Synthetic medical supplies tax classification 020,Medical Supplies
+21,TX-021,Synthetic general goods tax classification 021,General Goods
+22,TX-022,Synthetic digital goods tax classification 022,Digital Goods
+23,TX-023,Synthetic apparel tax classification 023,Apparel
+24,TX-024,Synthetic food tax classification 024,Food
+25,TX-025,Synthetic books tax classification 025,Books
+26,TX-026,Synthetic electronics tax classification 026,Electronics
+27,TX-027,Synthetic office supplies tax classification 027,Office Supplies
+28,TX-028,Synthetic home goods tax classification 028,Home Goods
+29,TX-029,Synthetic services tax classification 029,Services
+30,TX-030,Synthetic medical supplies tax classification 030,Medical Supplies

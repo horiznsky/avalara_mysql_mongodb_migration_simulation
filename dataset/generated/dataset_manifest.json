@@ -1,0 +1,20 @@
+{
+  "dataset_name": "Avalara-inspired synthetic transaction dataset",
+  "dataset_version": "1.0.0",
+  "seed": 20261123,
+  "synthetic_only": true,
+  "tax_rates_are_illustrative": true,
+  "generated_record_counts": {
+    "companies": 10,
+    "customers": 500,
+    "tax_codes": 30,
+    "items": 300,
+    "transactions": 2000,
+    "transaction_lines": 5903
+  },
+  "notes": [
+    "Not supplied by Avalara and not representative of its internal database.",
+    "All companies, customers, products, transactions and tax values are synthetic.",
+    "Tax rates are illustrative and must not be used for tax compliance."
+  ]
+}

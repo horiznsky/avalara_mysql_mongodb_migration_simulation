@@ -1,0 +1,11 @@
+company_id,company_code,company_name,country_code,currency_code,created_at
+1,COMP001,Northstar Commerce,US,USD,2025-01-01 09:00:00
+2,COMP002,Cedar Ridge Supply,US,USD,2025-01-01 09:00:00
+3,COMP003,Bluepeak Retail,US,USD,2025-01-01 09:00:00
+4,COMP004,Harborline Goods,US,USD,2025-01-01 09:00:00
+5,COMP005,Summit Trail Outfitters,US,USD,2025-01-01 09:00:00
+6,COMP006,Maple & Main,US,USD,2025-01-01 09:00:00
+7,COMP007,Redwood Market,US,USD,2025-01-01 09:00:00
+8,COMP008,Silverfern Electronics,US,USD,2025-01-01 09:00:00
+9,COMP009,Brightway Home,US,USD,2025-01-01 09:00:00
+10,COMP010,Stonebridge Wholesale,US,USD,2025-01-01 09:00:00

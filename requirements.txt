@@ -1,0 +1,6 @@
+# Dataset generation uses only the Python standard library.
+# Install these for MySQL loading and Python migration/validation:
+mysql-connector-python>=9.0
+pymongo>=4.10
+python-dotenv>=1.0
+pandas>=2.2
